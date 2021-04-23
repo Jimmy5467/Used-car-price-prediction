@@ -3,9 +3,11 @@
 Built a mathematical model that could predict the price of a used car based on previous consumer data and the collection of characteristics by using the supervised machine learning techniques. This uses 3 different algorithms of Machine Learning:
 1. Linear Regression
 2. Random Forest
-3. Naïve Bayes
 
 <img align="right" alt="GIF" height=280 src="https://github.com/rudrabarad/Used-car-price-prediction/blob/main/car.png"/>
+
+3. Naïve Bayes
+
 
 ## Libraries Used
 Libraries used in this project are as follows:
