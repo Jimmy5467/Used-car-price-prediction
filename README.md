@@ -1,6 +1,7 @@
 # Used-car-price-prediction
 
-<img align="right" alt="GIF" height=280 src="https://4.bp.blogspot.com/-5SENSezzuGg/XKBQ8VEQ8YI/AAAAAAAAAdQ/mnyBrO1Lah8dm84cqlC7zn4nPsxMTk98QCLcBGAs/s400/80E1A6AA103BA2A4D556EB57B0DE4B0EA8BC184A_size468_w600_h400%2B%25281%2529.gif"/>
+<img align="right" alt="GIF" height=280 src="https://s.aolcdn.com/os/ab/img/new-cars/shopping-tools/quote.svg"/>
+<img align="right" alt="GIF" height=280 src="https://s.aolcdn.com/os/ab/img/buying-programs/512/buyingprogram_presentcertificate.png"/>
 
 
 Implemented Linear regression, Navie Bayes, Random forest algorithm to detect price of second hand car on 6000 data of diffrent cars.
